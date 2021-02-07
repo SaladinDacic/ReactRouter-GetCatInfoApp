@@ -1,0 +1,7 @@
+.GrayScale-it{
+    filter: grayscale(100%);
+    transition: all 0.7s;
+}
+.GrayScale-it:hover{
+    filter: grayscale(0%);
+}
